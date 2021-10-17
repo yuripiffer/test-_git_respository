@@ -1,1 +1,0 @@
-#meu nome é: Gustavo de Albuquerque
