@@ -1,7 +1,8 @@
 # this is file 1
 
-def func_01(nome, sobrenome):
+def modificacoes(nome, sobrenome):
     print(f"Meu nome é {nome} {sobrenome}")
+    print("Segundo")
+    print("Terceiro")
 
-
-func_01()
+modificacoes()
