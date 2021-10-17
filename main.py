@@ -7,11 +7,12 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-    print("Sou a Ana sim minha querida")
+    print("Maria do Bairro Bebe")
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
+    print("New Function")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 print("Ana ate o fim")
