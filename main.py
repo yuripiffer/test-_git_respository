@@ -1,7 +1,7 @@
 # This is a sample Python script.
 
 # Press Shift+F10 to execute it or replace it with your code.
-# Pressfor classes, files, tool windows, actions, and settings.ASDLKJFHASDLFKJH
+# actions, and settings.ASDLKJFHASDLFKJH
 s#açlkdjçalkdfj
 
 def print_hi(name):
